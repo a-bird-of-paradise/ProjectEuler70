@@ -65,7 +65,7 @@ namespace ProjectEuler70
 
             long Totient;
 
-            double theratio=1000000;
+            double theratio=(double)max;
             int then=1;
 
             for (int i = 1; i <= max; i++)
